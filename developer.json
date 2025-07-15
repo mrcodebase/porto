@@ -1,0 +1,166 @@
+{
+    "name": "Nur Muchson Rahwanda Seto",
+    "logo_name": "seto",
+    "role": "Software Engineer",
+    "about": {
+        "sections": {
+            "professional-info": {
+                "title": "professional-info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "experience": {
+                        "title": "experience",
+                        "description": "<br>🟤 Jack Runners Roastery<br>Digital Marketer · SEO Specialist · Web Developer · Designer · Video Editor<br>📍 2024 – 2025<br>Built and managed the digital presence for Jack Runners Roastery, a specialty coffee brand.<br><br>Developed and maintained the website using modern web technologies with a focus on speed and responsiveness.<br><br>Created SEO-focused content and optimized structure for better search visibility.<br><br>Designed marketing visuals, packaging layouts, and social media creatives to strengthen brand identity.<br><br>Produced engaging short-form video content for campaigns and product launches.<br><br>Collaborated with marketing team to align digital strategies with brand goals.<br><br>🟣 IndoFitness Family (rickydarmawan.com)<br>Digital Marketer · SEO Specialist · Web Developer · Graphic Designer · Video Editor · IT Support<br>📍 2024 – 2024<br>Led the end-to-end digital efforts for an online coaching and fitness brand.<br><br>Developed and maintained the website using Kajabi, integrating blogs, programs, and forms.<br><br>Managed SEO initiatives including metadata, keyword structure, and blog optimization.<br><br>Designed promotional materials for fitness challenges, guides, and coaching programs.<br><br>Edited educational YouTube videos, reels, and ads to drive audience engagement.<br><br>Provided technical support for hosting, domain, and email integrations.<br><br>🟡 Surya Sakti ARS (suryasaktiars.com)<br>IT Support · Web Developer · SEO Specialist · Digital Marketer · Video Editor · Graphic Designer<br>📍 2021 – 2022<br>Contributed to the company’s online transformation through multi-disciplinary roles.<br><br>Managed website structure and performance to align with corporate needs.<br><br>Applied SEO practices to improve visibility and lead generation.<br><br>Supported technical infrastructure including networking, devices, and server maintenance.<br><br>Produced and edited video campaigns for product education and brand awareness.<br><br>Created design assets for brochures, catalogs, and online advertisements."
+                    },
+                    "hard-skills": {
+                        "title": "hard-skills",
+                        "description": "<br>⚛️ Frontend Development:<br>Next.js, React.js, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3<br><br>🧑‍💻 Backend & API:<br>Node.js, Express.js, RESTful APIs, Firebase, Supabase<br><br>🗂️ Database:<br>MySQL, PostgreSQL, MongoDB, SQLite, Prisma<br><br>🧠 Machine Learning & AI:<br>TensorFlow.js, neural network agents, Electron.js integration<br><br>🔐 Cybersecurity:<br>AES encryption, Argon2 hashing, secure authentication systems<br><br>📈 SEO & Digital Marketing:<br>On-page SEO, keyword strategy, Google Search Console, analytics tracking<br><br>🎨 Design & UI/UX:<br>Figma, Canva, responsive design, design systems<br><br>🎬 Video Editing:<br>CapCut, Premiere Pro, DaVinci Resolve<br><br>⚙️ Tools & Productivity:<br>Git, GitHub, VSCode, Notion, Linux CLI, Vercel, Netlify, Postman"
+                    },
+                    "soft-skills": {
+                        "title": "soft-skills",
+                        "description": "<br>🧩 Problem Solving<br>Strong logical thinking, system design, and optimization mindset<br><br>🧠 Analytical Thinking<br>Ability to break down complex problems and find data-driven solutions<br><br>🎯 Focus & Discipline<br>Sharp attention to detail, especially in coding and sports like tennis/golf<br><br>💬 Communication<br>Clear and empathetic communicator, both technical and non-technical<br><br>👨‍👩‍👧 Empathy & Leadership<br>Family-oriented mindset that translates into care, patience, and collaboration<br><br>🔄 Adaptability<br>Always open to learning new tools, frameworks, and workflows<br><br>⌛ Time Management<br>Balancing work, creativity, family, and growth with consistency<br><br>🎨 Creativity<br>Strong sense of design, aesthetics, and content storytelling"
+                    }
+                }
+            },
+            "personal-info": {
+                "title": "personal-info",
+                "icon": "icons/info-personal.svg",
+                "info": { 
+                    "bio": {
+                        "title": "bio",
+                        "description": "<br>🔹 Nur Muchson Rahwanda Seto<br>👨‍💻 Full-stack Web Developer | 🎨 Designer & 🎬 Video Editor<br>📈 SEO Specialist | 📣 Digital Marketer | 🔐 Cybersecurity Enthusiast<br>🤖 AI & Neural Network Hobbyist | 🧠 Tech Craftsman<br><br>📍 Based in Indonesia, I blend technology, visual creativity, and strategy to build impactful digital solutions—ranging from dynamic web platforms and content-driven SEO to clean UI design and intelligent neural network systems.<br><br>💡 My core capabilities include:<br><br>⚛️ Frontend & Backend: Next.js, React, Node.js<br>🧠 Machine Learning: TensorFlow, Electron-based agents<br>🎨 UI/UX Design: Figma, Canva, design systems<br>🎬 Video Editing: CapCut, Premiere, DaVinci Resolve<br>🗂️ Database: SQL & NoSQL<br>🔒 Security: AES, Argon2, encrypted storage<br><br>👨‍👩‍👧 Proud family man passionate about:<br><br>🌱 Gardening & learning with my daughter<br>🛵 Motor touring with my wife<br>🧳 Family long-trips & memory-making<br>📚 Reading together<br>🎾 Tennis, 🏊 Swimming, 🏌️‍♂️ Golf for focus & agility<br><br>🚀 I design, build, and secure experiences—from code to content, from interface to infrastructure.<br><br>🔗 Let's collaborate on something inspiring, secure, and beautiful."
+                    },
+                    "interests": {
+                        "title": "interests",
+                        "description": "<br>🌱 Family Moments<br>Learning and growing with my daughter, planting grapes, collecting flowers, and touring on motorbikes with my wife. I'm deeply driven by the joy of being a family man.<br><br>🧠 Technology & Software Development<br>Passionate about full-stack development, JavaScript ecosystems, Next.js, React, and building intelligent systems through AI and neural networks.<br><br>🧑‍🎨 Design & Creative Work<br>Designing interfaces with clarity and empathy using Figma, and crafting compelling visual stories through video editing.<br><br>🔐 Cybersecurity & Digital Ethics<br>Exploring encryption, secure authentication, and privacy-first development—building tech that protects users, not exploits them.<br><br>📈 Digital Marketing & SEO<br>Helping brands grow online through organic strategies, content planning, and performance-focused marketing campaigns.<br><br>⚙️ Tinkering & Problem Solving<br>Automating tasks, optimizing performance, building agents that learn—curiosity drives my love for experimentation.<br><br>🏸 Focus-based Sports<br>Tennis, swimming, and golf fuel my need for precision, agility, and mental clarity. I believe sport sharpens not just the body, but also decision-making.<br><br>📚 Reading & Personal Growth<br>I enjoy reading books with my daughter, discussing ideas with family, and staying updated with tech, design, and human behavior."
+                    },
+                    "education": {
+                        "title": "education",
+                        "description": "<br>My educational journey began with a strong foundation through elementary to high school, and continued with a degree in Informatics Engineering from Universitas Terbuka. This flexible and technology-driven learning environment sharpened my skills in programming, system analysis, and digital problem-solving—forming the core of my work in web development, SEO, and digital strategy.",
+                        "files": {
+                            "primary-school": "Panorama 1, Bandung",
+                            "junior-high-school": "29 Junior High School, Bandung",
+                            "high-school": "1 Senior High School, Mejayan - Madiun",
+                            "university": "Informatics Engineering, Open University"
+                        }
+                    }
+                }
+            },
+            "hobbies-info": {
+                "title": "hobbies-info",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "sports": {
+                        "title": "sports",
+                        "description": "<br>I'm passionate about sports that require focus, agility, and precision. My favorites include:<br><br>🎾 Tennis – A perfect blend of strategy and speed.<br>🏊‍♂️ Swimming – For focus, breathing control, and mental clarity.<br>⛳ Golf – Teaching patience, accuracy, and mindset discipline.<br><br>These activities help me recharge, stay sharp, and maintain the same level of focus and adaptability I bring into my work as a developer and digital creator."
+                    },
+                    "favorite-games": {
+                        "title": "favorite-games",
+                        "description": "<br>In my free time, I enjoy playing games that stimulate strategic thinking, reaction speed, and problem solving—reflecting my interests in both logic and creativity. Some of my favorite types of games include:<br><br>🧠 Puzzle and Logic Games – Like Portal, The Talos Principle, or Monument Valley<br>🚗 Racing and Touring Games – Like Gran Turismo or MotoGP, connecting my love of riding with gaming<br>🤖 Simulation & AI Strategy Games – Including Factorio, Civilization, or AI-based simulations that inspire my neural network projects<br><br>For me, games are more than entertainment—they're an extension of how I learn, explore, and improve focus, all while having fun with my family or during downtime."
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "contacts",
+            "sources": {
+                "email": "nur.muchsn@gmail.com",
+                "phone": "+6282117652129"
+            }
+        },
+        "social": {
+            "github": {
+                "title": "Github profile",
+                "url": "https://github.com/mrcodebase",
+                "user": "mrcodebase"
+            },
+            "facebook": {
+                "title": "Facebook profile",
+                "url": "https://facebook.com/",
+                "user": "username"
+            },
+            "instagram": {
+                "title": "Instagram account",
+                "url": "https://instagram.com/",
+                "user": "username"
+            }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "youtube": {
+                    "title": "YouTube channel",
+                    "url": "https://www.youtube.com/",
+                    "user": "username"
+                },
+                "thread": {
+                    "title": "Thread profile",
+                    "url": "https://gurushots.com/",
+                    "user": "username"
+                },
+                "tiktok": {
+                    "title": "TikTok account",
+                    "url": "https://twitch.com/",
+                    "user": "username"
+                },
+                "linkedin": {
+                    "title": "LinkedIn profile",
+                    "url": "https://www.linkedin.com/in/",
+                    "user": "username"
+                }
+            }
+        }
+    },
+    "gists": {
+        "1": "b2f734dfce67835e6cfc28ee13259766",
+        "2": "50e87cbcfeea8b1c51c9867b611381ca",
+        "3": "eb2febfaefb42b8ecfa33a80a25216d1",
+        "4": "06eef1fdbf96f644e1af3df9dd884ee6"
+    },
+    "projects": {
+        "1": {
+            "title": "_ui-animations",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/ui-animations2.png",
+            "tech": ["Flutter"],
+            "url": "https://github.com/"
+        },
+        "2": {
+            "title": "_ai-resources",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/ai-resources.png",
+            "tech": ["Gatsby"],
+            "url": "https://github.com/"
+        },
+        "3": {
+            "title": "_worldmap",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/worldmap.png",
+            "tech": ["Angular"],
+            "url": "https://github.com/"
+        },
+        "4": {
+            "title": "_ui-animations",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/ui-animations.png",
+            "tech": ["React"],
+            "url": "https://github.com/"
+        },
+        "5": {
+            "title": "_tetris-game",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/tetris-game.png",
+            "tech": ["React"],
+            "url": "https://github.com/"
+        },
+        "6": {
+            "title": "_ethereum",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/ethereum.png",
+            "tech": ["Vue"],
+            "url": "https://github.com/"
+        }
+    }
+}
