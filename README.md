@@ -1,10 +1,10 @@
-# 🚀 developer-portfolio-v2
+# 🚀 portfolio
 
 > Personal portfolio by **Nur Muchson Rahwanda Seto** ([GitHub](https://github.com/mrcodebase))
 >
 > Built with [Nuxt.js 3](https://nuxt.com/) · Styled with Tailwind CSS · Hosted on [Netlify](https://www.netlify.com/)
 >
-> ![Demo](./public/images/demo-share.png)
+
 
 ---
 
